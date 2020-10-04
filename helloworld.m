@@ -6,3 +6,9 @@ disp("Hello world!");
 name = input('What is your name?\n','s');
 
 fprintf('Hello %s!\n',name)
+
+% I want to ask for the user's surname
+surname = input('What is your surname?\n','s');
+
+% Function for printing user's full name
+test1(name,surname);
