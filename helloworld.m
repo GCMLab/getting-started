@@ -12,3 +12,6 @@ surname = input('What is your surname?\n','s');
 
 % Function for printing user's full name
 test1(name,surname);
+
+% ask name
+surname = input('What is your surname?\n','s');
