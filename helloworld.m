@@ -18,3 +18,4 @@ surname = input('What is your surname?\n','s');
 
 disp("How are you doing today?");
 disp("How are you doing today?");
+disp("How are you doing today?");
