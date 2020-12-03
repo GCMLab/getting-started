@@ -10,3 +10,5 @@ print("How are you doing today?")
 print("There's such nice weather...")
 
 name = input("My name is Endrina, what is yours?")
+
+print("Hello, " + name)
