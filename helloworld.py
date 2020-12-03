@@ -7,3 +7,4 @@ Created on Sun Oct  4 23:36:12 2020
 print("hello world")
 
 print("How are you doing today?")
+print("There's such nice weather...")
