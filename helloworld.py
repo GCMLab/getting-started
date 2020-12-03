@@ -9,4 +9,4 @@ print("hello world")
 print("How are you doing today?")
 print("There's such nice weather...")
 
-print("My name is Endrina, what is yours?")
+name = input("My name is Endrina, what is yours?")
