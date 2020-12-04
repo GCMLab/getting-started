@@ -1,3 +1,3 @@
 
-% Display hello world to the user
+% Display Hello Universe to the user
 disp("Hello Universe");
