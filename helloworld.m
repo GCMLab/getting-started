@@ -17,3 +17,5 @@ test1(name,surname);
 surname = input('What is your surname?\n','s');
 
 disp("How are you doing today?");
+
+disp("Have a wonderful Thursday");
